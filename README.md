@@ -3,3 +3,4 @@ instructions:
   pip install -r requirements.txt
   python3 vid.py
   url >> `url`
+  (will save to `vids` directory)
