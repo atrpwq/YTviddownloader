@@ -1,3 +1,5 @@
 thx for downloading
-js enter the url
-done
+instructions:
+  pip install -r requirements.txt
+  python3 vid.py
+  url >> `url`
